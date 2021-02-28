@@ -1,4 +1,4 @@
-# GenericData--scripts
+# Generic Python scripts for summarizing datasets
 
 
 The overall goal of the internship was to produce a set of python scripts that provides
@@ -12,7 +12,7 @@ also be useful to identify additional information that could be interesting to a
 further.
 
 **The list of python scripts that were produced during the course of the internship are
-stated below:
+stated below:**
 - Textual Description
 - Data Cleaning
 - Descriptive Statistics
