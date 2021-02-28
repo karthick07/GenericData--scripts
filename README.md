@@ -11,15 +11,15 @@ tics and visualizations gives an initial impression of how the dataset looks lik
 also be useful to identify additional information that could be interesting to analyse
 further.
 
-The list of python scripts that were produced during the course of the internship are
+**The list of python scripts that were produced during the course of the internship are
 stated below:
-1. Textual Description
-2. Data Cleaning
-3. Descriptive Statistics
-4. Numerical data visualization
-5. Categorical Data visualizations and Visualizations combining categorical and numeric data
-6. Generating Wordclouds
-7. Rank Difference
+- Textual Description
+- Data Cleaning
+- Descriptive Statistics
+- Numerical data visualization
+- Categorical Data visualizations and Visualizations combining categorical and numeric data
+- Generating Wordclouds
+- Rank Difference
 
 
-The scripts can be executed using Jupyter Notebook (or any alternative application) by placing the scripts and datasets in the same directory
+The scripts can be executed using **Jupyter Notebook (or any alternative application)** by placing the scripts and datasets in the same directory
