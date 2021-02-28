@@ -2,7 +2,7 @@
 
 
 The overall goal of the internship was to produce a set of python scripts that provides
-descriptive statistics, wordclouds, dierent types of data visualizations for any type of
+descriptive statistics, wordclouds, different types of data visualizations for any type of
 a human communication dataset. The scripts provide an overview of what a dataset
 is all about along with preprocessing or cleaning of the data, performing a descriptive
 statistical analysis, visualizing the data based on the numerical and categorical values,
